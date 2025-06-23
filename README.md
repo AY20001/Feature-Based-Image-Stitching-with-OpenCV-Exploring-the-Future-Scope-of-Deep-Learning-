@@ -1,6 +1,6 @@
 # Feature-Based Image Stitching with OpenCV: Exploring the Future Scope of Deep Learning
 
-🎓 Final Year Engineering Project | 👨‍💻 Developed using Python, OpenCV, and Django
+👨‍💻 Developed using Python, OpenCV, and Django
 
 ## 📌 Overview
 This project demonstrates how feature-based image stitching can be achieved using OpenCV's built-in `Stitcher` class. The goal is to create a seamless panoramic image by detecting keypoints and matching features between multiple input images.

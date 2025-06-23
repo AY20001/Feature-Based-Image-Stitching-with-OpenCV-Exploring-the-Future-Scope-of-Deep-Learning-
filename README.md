@@ -24,12 +24,4 @@ Additionally, the future scope explores the potential of integrating transformer
 - Django-based web interface (optional)
 - Structured folder with report, code, and dependencies
 
----
 
-## 🧪 Setup Instructions
-
-### 🔧 Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Feature-Based-Image-Stitching.git
-   cd Feature-Based-Image-Stitching
